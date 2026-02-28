@@ -1,0 +1,8 @@
+{
+  "name": "pika.studio",
+  "description": "A minimal, high-performance anime streaming platform with personal cloud storage, AI-powered recommendations, and offline downloads.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
